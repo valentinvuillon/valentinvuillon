@@ -1,3 +1,3 @@
 ## Hi!
 
-This is my personal github repository. I upload here all kind of projects I am working on.
+This is my personal github repository. I upload here all kinds of projects I am working on.
